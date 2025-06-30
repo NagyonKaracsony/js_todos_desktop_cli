@@ -2,11 +2,20 @@
 #### A simple Offline CLI application for task tracking with long term JSON data storage
 
 ## Quick Start
-To setup this project open a terminal and copy theese line by line:
+To setup this project open a terminal and run this line by line:
 ```
 git clone https://github.com/NagyonKaracsony/js_todos_desktop_cli.git
 cd js_todos_desktop_cli
 npm install
+```
+
+To start the program simply run either of theese in the terminal:
+```
+node .
+```
+**OR**
+```
+node index.js
 ```
 
 ## Usage
